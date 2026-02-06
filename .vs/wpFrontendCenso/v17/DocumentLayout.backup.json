@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{BB645A4B-1A87-4C24-844D-D0CFA9EB8F9B}|wpFrontendCenso\\wpFrontendCenso.csproj|solutionrelative:wpfrontendcenso\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{BB645A4B-1A87-4C24-844D-D0CFA9EB8F9B}|wpFrontendCenso\\wpFrontendCenso.csproj|C:\\Users\\ricar\\source\\repos\\wpFrontendCenso\\wpfrontendcenso\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{BB645A4B-1A87-4C24-844D-D0CFA9EB8F9B}|wpFrontendCenso\\wpFrontendCenso.csproj|solutionrelative:wpfrontendcenso\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BB645A4B-1A87-4C24-844D-D0CFA9EB8F9B}|wpFrontendCenso\\wpFrontendCenso.csproj|C:\\Users\\ricar\\source\\repos\\wpFrontendCenso\\wpfrontendcenso\\wpusuarios.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BB645A4B-1A87-4C24-844D-D0CFA9EB8F9B}|wpFrontendCenso\\wpFrontendCenso.csproj|solutionrelative:wpfrontendcenso\\wpusuarios.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -39,10 +43,6 @@
       "RelativeMoniker": "D:0:0:{BB645A4B-1A87-4C24-844D-D0CFA9EB8F9B}|wpFrontendCenso\\wpFrontendCenso.csproj|solutionrelative:wpfrontendcenso\\web.debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB645A4B-1A87-4C24-844D-D0CFA9EB8F9B}|wpFrontendCenso\\wpFrontendCenso.csproj|C:\\Users\\ricar\\source\\repos\\wpFrontendCenso\\wpfrontendcenso\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{BB645A4B-1A87-4C24-844D-D0CFA9EB8F9B}|wpFrontendCenso\\wpFrontendCenso.csproj|solutionrelative:wpfrontendcenso\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BB645A4B-1A87-4C24-844D-D0CFA9EB8F9B}|wpFrontendCenso\\wpFrontendCenso.csproj|C:\\Users\\ricar\\source\\repos\\wpFrontendCenso\\wpfrontendcenso\\models\\clsapistatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BB645A4B-1A87-4C24-844D-D0CFA9EB8F9B}|wpFrontendCenso\\wpFrontendCenso.csproj|solutionrelative:wpfrontendcenso\\models\\clsapistatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -72,7 +72,7 @@
               "RelativeDocumentMoniker": "wpFrontendCenso\\README.md",
               "ToolTip": "C:\\Users\\ricar\\source\\repos\\wpFrontendCenso\\wpFrontendCenso\\README.md",
               "RelativeToolTip": "wpFrontendCenso\\README.md",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAAGYAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2026-01-22T01:35:05.884Z",
               "EditorCaption": ""
@@ -80,18 +80,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Web.Release.config",
-              "DocumentMoniker": "C:\\Users\\ricar\\source\\repos\\wpFrontendCenso\\wpFrontendCenso\\Web.Release.config",
-              "RelativeDocumentMoniker": "wpFrontendCenso\\Web.Release.config",
-              "ToolTip": "C:\\Users\\ricar\\source\\repos\\wpFrontendCenso\\wpFrontendCenso\\Web.Release.config",
-              "RelativeToolTip": "wpFrontendCenso\\Web.Release.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2026-01-15T02:17:47.135Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "wpAcceso.aspx",
               "DocumentMoniker": "C:\\Users\\ricar\\source\\repos\\wpFrontendCenso\\wpFrontendCenso\\wpAcceso.aspx",
               "RelativeDocumentMoniker": "wpFrontendCenso\\wpAcceso.aspx",
@@ -103,7 +91,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "wpAcceso.aspx.cs",
               "DocumentMoniker": "C:\\Users\\ricar\\source\\repos\\wpFrontendCenso\\wpFrontendCenso\\wpAcceso.aspx.cs",
               "RelativeDocumentMoniker": "wpFrontendCenso\\wpAcceso.aspx.cs",
@@ -115,7 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "wpAcceso.aspx.designer.cs",
               "DocumentMoniker": "C:\\Users\\ricar\\source\\repos\\wpFrontendCenso\\wpFrontendCenso\\wpAcceso.aspx.designer.cs",
               "RelativeDocumentMoniker": "wpFrontendCenso\\wpAcceso.aspx.designer.cs",
@@ -127,7 +115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "wpUsuarios.aspx",
               "DocumentMoniker": "C:\\Users\\ricar\\source\\repos\\wpFrontendCenso\\wpFrontendCenso\\wpUsuarios.aspx",
               "RelativeDocumentMoniker": "wpFrontendCenso\\wpUsuarios.aspx",
@@ -139,7 +127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "wpUsuarios.aspx.cs",
               "DocumentMoniker": "C:\\Users\\ricar\\source\\repos\\wpFrontendCenso\\wpFrontendCenso\\wpUsuarios.aspx.cs",
               "RelativeDocumentMoniker": "wpFrontendCenso\\wpUsuarios.aspx.cs",
@@ -152,6 +140,31 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\ricar\\source\\repos\\wpFrontendCenso\\wpFrontendCenso\\Web.config",
+              "RelativeDocumentMoniker": "wpFrontendCenso\\Web.config",
+              "ToolTip": "C:\\Users\\ricar\\source\\repos\\wpFrontendCenso\\wpFrontendCenso\\Web.config",
+              "RelativeToolTip": "wpFrontendCenso\\Web.config",
+              "ViewState": "AgIAABkAAAAAAAAAAAAqwCwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-01-15T05:15:04.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Web.Release.config",
+              "DocumentMoniker": "C:\\Users\\ricar\\source\\repos\\wpFrontendCenso\\wpFrontendCenso\\Web.Release.config",
+              "RelativeDocumentMoniker": "wpFrontendCenso\\Web.Release.config",
+              "ToolTip": "C:\\Users\\ricar\\source\\repos\\wpFrontendCenso\\wpFrontendCenso\\Web.Release.config",
+              "RelativeToolTip": "wpFrontendCenso\\Web.Release.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-01-15T02:17:47.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "wpUsuarios.aspx.designer.cs",
               "DocumentMoniker": "C:\\Users\\ricar\\source\\repos\\wpFrontendCenso\\wpFrontendCenso\\wpUsuarios.aspx.designer.cs",
               "RelativeDocumentMoniker": "wpFrontendCenso\\wpUsuarios.aspx.designer.cs",
@@ -163,7 +176,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Web.Debug.config",
               "DocumentMoniker": "C:\\Users\\ricar\\source\\repos\\wpFrontendCenso\\wpFrontendCenso\\Web.Debug.config",
               "RelativeDocumentMoniker": "wpFrontendCenso\\Web.Debug.config",
@@ -172,19 +185,6 @@
               "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
               "WhenOpened": "2026-01-15T02:17:43.514Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Web.config",
-              "DocumentMoniker": "C:\\Users\\ricar\\source\\repos\\wpFrontendCenso\\wpFrontendCenso\\Web.config",
-              "RelativeDocumentMoniker": "wpFrontendCenso\\Web.config",
-              "ToolTip": "C:\\Users\\ricar\\source\\repos\\wpFrontendCenso\\wpFrontendCenso\\Web.config",
-              "RelativeToolTip": "wpFrontendCenso\\Web.config",
-              "ViewState": "AgIAABkAAAAAAAAAAAAqwCwAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2026-01-15T05:15:04.086Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
