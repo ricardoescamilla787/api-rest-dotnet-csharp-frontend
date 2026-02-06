@@ -1,0 +1,230 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ricar\\source\\repos\\wpFrontendCenso\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB645A4B-1A87-4C24-844D-D0CFA9EB8F9B}|wpFrontendCenso\\wpFrontendCenso.csproj|c:\\users\\ricar\\source\\repos\\wpfrontendcenso\\wpfrontendcenso\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{BB645A4B-1A87-4C24-844D-D0CFA9EB8F9B}|wpFrontendCenso\\wpFrontendCenso.csproj|solutionrelative:wpfrontendcenso\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB645A4B-1A87-4C24-844D-D0CFA9EB8F9B}|wpFrontendCenso\\wpFrontendCenso.csproj|C:\\Users\\ricar\\source\\repos\\wpFrontendCenso\\wpfrontendcenso\\wpusuarios.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB645A4B-1A87-4C24-844D-D0CFA9EB8F9B}|wpFrontendCenso\\wpFrontendCenso.csproj|solutionrelative:wpfrontendcenso\\wpusuarios.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB645A4B-1A87-4C24-844D-D0CFA9EB8F9B}|wpFrontendCenso\\wpFrontendCenso.csproj|C:\\Users\\ricar\\source\\repos\\wpFrontendCenso\\wpfrontendcenso\\wpusuarios.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB645A4B-1A87-4C24-844D-D0CFA9EB8F9B}|wpFrontendCenso\\wpFrontendCenso.csproj|solutionrelative:wpfrontendcenso\\wpusuarios.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB645A4B-1A87-4C24-844D-D0CFA9EB8F9B}|wpFrontendCenso\\wpFrontendCenso.csproj|C:\\Users\\ricar\\source\\repos\\wpFrontendCenso\\wpfrontendcenso\\wpusuarios.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{BB645A4B-1A87-4C24-844D-D0CFA9EB8F9B}|wpFrontendCenso\\wpFrontendCenso.csproj|solutionrelative:wpfrontendcenso\\wpusuarios.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB645A4B-1A87-4C24-844D-D0CFA9EB8F9B}|wpFrontendCenso\\wpFrontendCenso.csproj|C:\\Users\\ricar\\source\\repos\\wpFrontendCenso\\wpfrontendcenso\\wpacceso.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB645A4B-1A87-4C24-844D-D0CFA9EB8F9B}|wpFrontendCenso\\wpFrontendCenso.csproj|solutionrelative:wpfrontendcenso\\wpacceso.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB645A4B-1A87-4C24-844D-D0CFA9EB8F9B}|wpFrontendCenso\\wpFrontendCenso.csproj|C:\\Users\\ricar\\source\\repos\\wpFrontendCenso\\wpfrontendcenso\\wpacceso.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB645A4B-1A87-4C24-844D-D0CFA9EB8F9B}|wpFrontendCenso\\wpFrontendCenso.csproj|solutionrelative:wpfrontendcenso\\wpacceso.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB645A4B-1A87-4C24-844D-D0CFA9EB8F9B}|wpFrontendCenso\\wpFrontendCenso.csproj|C:\\Users\\ricar\\source\\repos\\wpFrontendCenso\\wpfrontendcenso\\wpacceso.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{BB645A4B-1A87-4C24-844D-D0CFA9EB8F9B}|wpFrontendCenso\\wpFrontendCenso.csproj|solutionrelative:wpfrontendcenso\\wpacceso.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB645A4B-1A87-4C24-844D-D0CFA9EB8F9B}|wpFrontendCenso\\wpFrontendCenso.csproj|C:\\Users\\ricar\\source\\repos\\wpFrontendCenso\\wpfrontendcenso\\web.release.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{BB645A4B-1A87-4C24-844D-D0CFA9EB8F9B}|wpFrontendCenso\\wpFrontendCenso.csproj|solutionrelative:wpfrontendcenso\\web.release.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB645A4B-1A87-4C24-844D-D0CFA9EB8F9B}|wpFrontendCenso\\wpFrontendCenso.csproj|C:\\Users\\ricar\\source\\repos\\wpFrontendCenso\\wpfrontendcenso\\web.debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{BB645A4B-1A87-4C24-844D-D0CFA9EB8F9B}|wpFrontendCenso\\wpFrontendCenso.csproj|solutionrelative:wpfrontendcenso\\web.debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB645A4B-1A87-4C24-844D-D0CFA9EB8F9B}|wpFrontendCenso\\wpFrontendCenso.csproj|C:\\Users\\ricar\\source\\repos\\wpFrontendCenso\\wpfrontendcenso\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{BB645A4B-1A87-4C24-844D-D0CFA9EB8F9B}|wpFrontendCenso\\wpFrontendCenso.csproj|solutionrelative:wpfrontendcenso\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB645A4B-1A87-4C24-844D-D0CFA9EB8F9B}|wpFrontendCenso\\wpFrontendCenso.csproj|C:\\Users\\ricar\\source\\repos\\wpFrontendCenso\\wpfrontendcenso\\models\\clsapistatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB645A4B-1A87-4C24-844D-D0CFA9EB8F9B}|wpFrontendCenso\\wpFrontendCenso.csproj|solutionrelative:wpfrontendcenso\\models\\clsapistatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB645A4B-1A87-4C24-844D-D0CFA9EB8F9B}|wpFrontendCenso\\wpFrontendCenso.csproj|C:\\Users\\ricar\\source\\repos\\wpFrontendCenso\\wpfrontendcenso\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB645A4B-1A87-4C24-844D-D0CFA9EB8F9B}|wpFrontendCenso\\wpFrontendCenso.csproj|solutionrelative:wpfrontendcenso\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB645A4B-1A87-4C24-844D-D0CFA9EB8F9B}|wpFrontendCenso\\wpFrontendCenso.csproj|C:\\Users\\ricar\\source\\repos\\wpFrontendCenso\\wpfrontendcenso\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB645A4B-1A87-4C24-844D-D0CFA9EB8F9B}|wpFrontendCenso\\wpFrontendCenso.csproj|solutionrelative:wpfrontendcenso\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\ricar\\source\\repos\\wpFrontendCenso\\wpFrontendCenso\\README.md",
+              "RelativeDocumentMoniker": "wpFrontendCenso\\README.md",
+              "ToolTip": "C:\\Users\\ricar\\source\\repos\\wpFrontendCenso\\wpFrontendCenso\\README.md",
+              "RelativeToolTip": "wpFrontendCenso\\README.md",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAGYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-01-22T01:35:05.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Web.Release.config",
+              "DocumentMoniker": "C:\\Users\\ricar\\source\\repos\\wpFrontendCenso\\wpFrontendCenso\\Web.Release.config",
+              "RelativeDocumentMoniker": "wpFrontendCenso\\Web.Release.config",
+              "ToolTip": "C:\\Users\\ricar\\source\\repos\\wpFrontendCenso\\wpFrontendCenso\\Web.Release.config",
+              "RelativeToolTip": "wpFrontendCenso\\Web.Release.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-01-15T02:17:47.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "wpAcceso.aspx",
+              "DocumentMoniker": "C:\\Users\\ricar\\source\\repos\\wpFrontendCenso\\wpFrontendCenso\\wpAcceso.aspx",
+              "RelativeDocumentMoniker": "wpFrontendCenso\\wpAcceso.aspx",
+              "ToolTip": "C:\\Users\\ricar\\source\\repos\\wpFrontendCenso\\wpFrontendCenso\\wpAcceso.aspx",
+              "RelativeToolTip": "wpFrontendCenso\\wpAcceso.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-01-15T05:15:14.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "wpAcceso.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\ricar\\source\\repos\\wpFrontendCenso\\wpFrontendCenso\\wpAcceso.aspx.cs",
+              "RelativeDocumentMoniker": "wpFrontendCenso\\wpAcceso.aspx.cs",
+              "ToolTip": "C:\\Users\\ricar\\source\\repos\\wpFrontendCenso\\wpFrontendCenso\\wpAcceso.aspx.cs",
+              "RelativeToolTip": "wpFrontendCenso\\wpAcceso.aspx.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAIwFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T02:17:48.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "wpAcceso.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\ricar\\source\\repos\\wpFrontendCenso\\wpFrontendCenso\\wpAcceso.aspx.designer.cs",
+              "RelativeDocumentMoniker": "wpFrontendCenso\\wpAcceso.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\ricar\\source\\repos\\wpFrontendCenso\\wpFrontendCenso\\wpAcceso.aspx.designer.cs",
+              "RelativeToolTip": "wpFrontendCenso\\wpAcceso.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T00:11:51.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "wpUsuarios.aspx",
+              "DocumentMoniker": "C:\\Users\\ricar\\source\\repos\\wpFrontendCenso\\wpFrontendCenso\\wpUsuarios.aspx",
+              "RelativeDocumentMoniker": "wpFrontendCenso\\wpUsuarios.aspx",
+              "ToolTip": "C:\\Users\\ricar\\source\\repos\\wpFrontendCenso\\wpFrontendCenso\\wpUsuarios.aspx",
+              "RelativeToolTip": "wpFrontendCenso\\wpUsuarios.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-01-15T02:16:40.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "wpUsuarios.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\ricar\\source\\repos\\wpFrontendCenso\\wpFrontendCenso\\wpUsuarios.aspx.cs",
+              "RelativeDocumentMoniker": "wpFrontendCenso\\wpUsuarios.aspx.cs",
+              "ToolTip": "C:\\Users\\ricar\\source\\repos\\wpFrontendCenso\\wpFrontendCenso\\wpUsuarios.aspx.cs",
+              "RelativeToolTip": "wpFrontendCenso\\wpUsuarios.aspx.cs",
+              "ViewState": "AgIAAKIBAAAAAAAAAAAwwL4BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T05:15:25.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "wpUsuarios.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\ricar\\source\\repos\\wpFrontendCenso\\wpFrontendCenso\\wpUsuarios.aspx.designer.cs",
+              "RelativeDocumentMoniker": "wpFrontendCenso\\wpUsuarios.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\ricar\\source\\repos\\wpFrontendCenso\\wpFrontendCenso\\wpUsuarios.aspx.designer.cs",
+              "RelativeToolTip": "wpFrontendCenso\\wpUsuarios.aspx.designer.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwBoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T05:21:04.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Web.Debug.config",
+              "DocumentMoniker": "C:\\Users\\ricar\\source\\repos\\wpFrontendCenso\\wpFrontendCenso\\Web.Debug.config",
+              "RelativeDocumentMoniker": "wpFrontendCenso\\Web.Debug.config",
+              "ToolTip": "C:\\Users\\ricar\\source\\repos\\wpFrontendCenso\\wpFrontendCenso\\Web.Debug.config",
+              "RelativeToolTip": "wpFrontendCenso\\Web.Debug.config",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-01-15T02:17:43.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\ricar\\source\\repos\\wpFrontendCenso\\wpFrontendCenso\\Web.config",
+              "RelativeDocumentMoniker": "wpFrontendCenso\\Web.config",
+              "ToolTip": "C:\\Users\\ricar\\source\\repos\\wpFrontendCenso\\wpFrontendCenso\\Web.config",
+              "RelativeToolTip": "wpFrontendCenso\\Web.config",
+              "ViewState": "AgIAABkAAAAAAAAAAAAqwCwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-01-15T05:15:04.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "clsApiStatus.cs",
+              "DocumentMoniker": "C:\\Users\\ricar\\source\\repos\\wpFrontendCenso\\wpFrontendCenso\\Models\\clsApiStatus.cs",
+              "RelativeDocumentMoniker": "wpFrontendCenso\\Models\\clsApiStatus.cs",
+              "ToolTip": "C:\\Users\\ricar\\source\\repos\\wpFrontendCenso\\wpFrontendCenso\\Models\\clsApiStatus.cs",
+              "RelativeToolTip": "wpFrontendCenso\\Models\\clsApiStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T02:15:28.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\ricar\\source\\repos\\wpFrontendCenso\\wpFrontendCenso\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "wpFrontendCenso\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\ricar\\source\\repos\\wpFrontendCenso\\wpFrontendCenso\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "wpFrontendCenso\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T05:14:17.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "C:\\Users\\ricar\\source\\repos\\wpFrontendCenso\\wpFrontendCenso\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "wpFrontendCenso\\App_Start\\BundleConfig.cs",
+              "ToolTip": "C:\\Users\\ricar\\source\\repos\\wpFrontendCenso\\wpFrontendCenso\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "wpFrontendCenso\\App_Start\\BundleConfig.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwwCIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T05:14:08.838Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
