@@ -29,6 +29,7 @@ consulta y administración de usuarios mediante peticiones HTTP (GET, POST, PUT,
 
 El proyecto sigue una arquitectura **cliente-servidor**, donde este frontend actúa como cliente que consume la API REST.
 
+```text
 wpFrontendCenso/
 │
 ├── App_Start/
@@ -52,6 +53,7 @@ wpFrontendCenso/
 │ └── Web.Release.config
 |
 └── README.md
+```
 
 ## Configuración del consumo de la API
 
